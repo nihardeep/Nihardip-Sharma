@@ -36,7 +36,7 @@ Exploring global Product leadership opportunities.
 ## 🚀 Featured Projects
 
 ### **AI & Agentic Systems**
-- [Travelplanner(#)
+- [Travelplanner]((https://github.com/nihardeep/TravelPlanner))
 - [Multi-purpose AI Assistant for Research, Coding & Queries](#)
 - [Browser Use Agent](#)
 - [Computer Use Agent](#)
