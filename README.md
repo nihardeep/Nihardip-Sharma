@@ -1,1 +1,59 @@
-# Nihardip-Sharma
+
+# 👋 Hi, I'm Nihardip Sharma!
+
+## 📌 Summary
+Senior Manager, Product Management at AirAsia MOVE SuperApp  
+Building AI-driven products across e-commerce, travel, payments & personalization.  
+Exploring global Product leadership opportunities.
+
+---
+
+## 🌱 Skills
+
+![Product Management](https://img.shields.io/badge/Product%20Management-blue)
+![Ecosystems](https://img.shields.io/badge/Ecosystems-green)
+![Growth & Adoption](https://img.shields.io/badge/Growth%20%26%20Adoption-orange)
+![Enterprise Workflows](https://img.shields.io/badge/Enterprise%20Workflows-purple)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-red)
+![LLMs & Gen AI](https://img.shields.io/badge/LLMs%20%26%20Gen%20AI-9cf)
+![RAG](https://img.shields.io/badge/RAG-pink)
+![Python](https://img.shields.io/badge/Python-blue)
+
+---
+
+## 🏅 Certifications
+
+![Reforge](https://img.shields.io/badge/Reforge-black)
+![Retention, Engagement & Growth](https://img.shields.io/badge/Retention%20%26%20Engagement%20%26%20Growth-orange)
+![School of AI](https://img.shields.io/badge/The%20School%20of%20AI-blue)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+
+---
+
+## 🚀 Featured Projects
+
+### **AI & Agentic Systems**
+- [ShadowBot — Undetectable AI Overlay Assistant](#)
+- [Multi-purpose AI Assistant for Research, Coding & Queries](#)
+- [Browser Use Agent](#)
+- [Computer Use Agent](#)
+- [Telegram & Gmail Multi-channel Agent](#)
+- [Stock Research Assistant](#)
+- [GMail Newsletter LLM Digest](#)
+
+---
+
+### ⭐ Want the same badges?
+All icons here use **shields.io**  
+→ https://shields.io/
+
+---
+
+### 😄 Fun fact
+I love building end-to-end Agentic workflows using OpenAI + workflow automation.
