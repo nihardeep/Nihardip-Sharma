@@ -23,9 +23,6 @@ Exploring global Product leadership opportunities.
 
 ## 🏅 Certifications
 
-![Reforge](https://img.shields.io/badge/Reforge-black)
-![Retention, Engagement & Growth](https://img.shields.io/badge/Retention%20%26%20Engagement%20%26%20Growth-orange)
-![School of AI](https://img.shields.io/badge/The%20School%20of%20AI-blue)
 
 ---
 
