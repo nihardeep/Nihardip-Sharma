@@ -28,8 +28,8 @@ Exploring global Product leadership opportunities.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihardip-sharma-18228625/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](nihardeep@gmail.com)
 
 ---
 
