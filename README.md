@@ -37,7 +37,7 @@ Exploring global Product leadership opportunities.
 
 ### **AI & Agentic Systems**
 - [TravelPlanner](https://github.com/nihardeep/TravelPlanner)
-- [Email Categoriser https://github.com/nihardeep/email-ai-categorizer](#)
+- [Chrome Extenision to Categoriser email](https://github.com/nihardeep/email-ai-categorizer)(#)
 - [Browser Use Agent](#)
 - [Computer Use Agent](#)
 - [Telegram & Gmail Multi-channel Agent](#)
