@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Nihardip Sharma!
 
 ## 📌 Summary
-Senior Manager, Product Management at AirAsia MOVE SuperApp  
+Princiap Product Manager at Indigo Digital ( Indigo Airlines)  
 Building AI-driven products across e-commerce, travel, payments & personalization.  
 Exploring global Product leadership opportunities.
 
@@ -38,7 +38,7 @@ Exploring global Product leadership opportunities.
 ### **AI & Agentic Systems**
 - [TravelPlanner](https://github.com/nihardeep/TravelPlanner)
 - [Chrome Extenision to Categoriser email](https://github.com/nihardeep/email-ai-categorizer)
-- 
+- https://github.com/nihardeep/mobileapp
 
 ---
 
